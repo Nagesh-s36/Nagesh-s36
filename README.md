@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nagesh36
+- 👋 Hi, I’m @Nagesh.S aka DarkLordRyuk
 - 👀 I’m interested in Programming and Physics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning selenium
+- 💞️ I’m looking to collaborate on automation programs in python or java using selenium and other tools
 - 📫 Can contact me with on insta n_o_t_updated
 
 <!---
